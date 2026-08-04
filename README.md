@@ -14,59 +14,60 @@ I specialize in **agentic AI systems** — not just chatbots, but systems that t
 
 ## 🛠️ Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logo=langsmith&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Guardrail-F55036?style=for-the-badge&logo=Guardrail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer-Vision-F55036?style=for-the-badge&logo=Computer-Vision&logoColor=white"/>
-  
-</p>
+AI & Agents
 
+<p> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Jina_AI-000000?style=for-the-badge&logo=jinaai&logoColor=white"/> </p>
+
+Vision & Voice
+
+<p> <img src="https://img.shields.io/badge/Computer_Vision-FF6B35?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TTS_Engine-4A90D9?style=for-the-badge&logo=amazon&logoColor=white"/> <img src="https://img.shields.io/badge/STT_Engine-34A853?style=for-the-badge&logo=googlepodcasts&logoColor=white"/> <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
+
+Backend
+
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> </p>
+
+Databases & Vector Stores
+
+<p> <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+
+Frontend - (Nb: Not interested 🙂)
+
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+
+DevOps & Tools
+
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> </p>
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 [Enterprise RAG System with RBAC](https://github.com/Irfan-gitt/Enterprise-RAG-System-RBAC-)
+
+🏢 Enterprise RAG System with RBAC
+
 Internal knowledge assistant for companies with role-based access control. HR sees HR data. Finance sees finance data. Nobody sees what they shouldn't.
 
-`LangGraph` `Multi-Query RAG` `Jina Reranker` `BM25` `JWT Auth` `Guardrails` `FastAPI`
-
----
-
-### 🖥️ TARZ — Computer Control Agent [https://github.com/Irfan-gitt/Tarz-Ai-assistant]
-An AI that controls your computer. Moves the cursor, clicks things, reads your screen, takes action. Built because I was curious if it was possible. It is.
-
-`LangChain` `Computer Vision` `PyAutoGUI` `Agents`
-
----
+LangGraph Multi-Query RAG Jina Reranker BM25 JWT Auth Guardrails FastAPI LangSmith
 
 
-### 🌟 Stargazing AI Tool
+🖥️ TARZ — Computer Control Agent
+
+An AI that controls your computer. Uses vision models to see the screen, calculates precise coordinates for accurate clicking, listens to your voice commands and talks back. Built because I was curious if it was possible. It is.
+
+LangChain Vision Models Coordinate Detection TTS STT PyAutoGUI
+
+
+🌟 Stargazing AI Tool
+
 Point your phone at the sky. See the stars on your laptop screen. Ask questions about what you're looking at. Built out of pure curiosity — no tutorial, just imagination.
 
-`Phone Sensors` `Real-time Streaming` `AI Integration` `Computer Vision`
-
----
+Phone Sensors Real-time Streaming AI Integration Computer Vision
 
 
-### 🤖 [AI Assistant with Long-Term Memory](https://github.com/Irfan-gitt/Rag-Chatbot)
-Conversational agent that actually remembers you — not just this session, but across sessions. Built with a dual memory architecture: session memory + vector-based long-term memory.
+🤖 AI Assistant with Long-Term Memory
 
-`LangGraph` `ChromaDB` `Streaming` `FastAPI` `Railway`
+Conversational agent that actually remembers you — not just this session, but across sessions. Dual memory architecture: session memory + vector-based long-term memory.
 
-
-
-
----
-
+LangGraph ChromaDB Streaming FastAPI Railway
 
 ## 📊 GitHub Stats
 
