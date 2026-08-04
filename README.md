@@ -41,33 +41,36 @@ DevOps & Tools
 
 ## 🚀 Featured Projects
 
-
-🏢 Enterprise RAG System with RBAC
-
+### 🏢 [Enterprise RAG System with RBAC](https://github.com/Irfan-gitt/Enterprise-RAG-System-RBAC-)
 Internal knowledge assistant for companies with role-based access control. HR sees HR data. Finance sees finance data. Nobody sees what they shouldn't.
 
-LangGraph Multi-Query RAG Jina Reranker BM25 JWT Auth Guardrails FastAPI LangSmith
+`LangGraph` `Multi-Query RAG` `Jina Reranker` `BM25` `JWT Auth` `Guardrails` `FastAPI`
+
+---
+
+### 🖥️ TARZ — Computer Control Agent [https://github.com/Irfan-gitt/Tarz-Ai-assistant]
+An AI that controls your computer. Moves the cursor, clicks things, reads your screen, takes action. Built because I was curious if it was possible. It is.
+
+`LangChain` `Computer Vision` `PyAutoGUI` `Agents`
+
+---
 
 
-🖥️ TARZ — Computer Control Agent
-
-An AI that controls your computer. Uses vision models to see the screen, calculates precise coordinates for accurate clicking, listens to your voice commands and talks back. Built because I was curious if it was possible. It is.
-
-LangChain Vision Models Coordinate Detection TTS STT PyAutoGUI
-
-
-🌟 Stargazing AI Tool
-
+### 🌟 Stargazing AI Tool
 Point your phone at the sky. See the stars on your laptop screen. Ask questions about what you're looking at. Built out of pure curiosity — no tutorial, just imagination.
 
-Phone Sensors Real-time Streaming AI Integration Computer Vision
+`Phone Sensors` `Real-time Streaming` `AI Integration` `Computer Vision`
+
+---
 
 
-🤖 AI Assistant with Long-Term Memory
+### 🤖 [AI Assistant with Long-Term Memory](https://github.com/Irfan-gitt/Rag-Chatbot)
+Conversational agent that actually remembers you — not just this session, but across sessions. Built with a dual memory architecture: session memory + vector-based long-term memory.
 
-Conversational agent that actually remembers you — not just this session, but across sessions. Dual memory architecture: session memory + vector-based long-term memory.
+`LangGraph` `ChromaDB` `Streaming` `FastAPI` `Railway`
 
-LangGraph ChromaDB Streaming FastAPI Railway
+
+
 
 ## 🎓 Certifications
 
