@@ -48,7 +48,7 @@ Internal knowledge assistant for companies with role-based access control. HR se
 
 ---
 
-### 🖥️ TARZ — Computer Control Agent [https://github.com/Irfan-gitt/Tarz-Ai-assistant]
+### 🖥️ [TARZ — Computer Control Agent] (https://github.com/Irfan-gitt/Tarz-Ai-assistant)
 An AI that controls your computer. Moves the cursor, clicks things, reads your screen, takes action. Built because I was curious if it was possible. It is.
 
 `LangChain` `Computer Vision` `PyAutoGUI` `Agents`
@@ -56,7 +56,7 @@ An AI that controls your computer. Moves the cursor, clicks things, reads your s
 ---
 
 
-### 🌟 Stargazing AI Tool
+### 🌟 [Stargazing AI Tool](https://github.com/Irfan-gitt/Stargazing-Tool-Cosmos-AI-)
 Point your phone at the sky. See the stars on your laptop screen. Ask questions about what you're looking at. Built out of pure curiosity — no tutorial, just imagination.
 
 `Phone Sensors` `Real-time Streaming` `AI Integration` `Computer Vision`
