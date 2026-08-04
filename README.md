@@ -48,7 +48,7 @@ Internal knowledge assistant for companies with role-based access control. HR se
 
 ---
 
-### 🖥️ [TARZ — Computer Control Agent] (https://github.com/Irfan-gitt/Tarz-Ai-assistant)
+### 🖥️ [TARZ — Computer Control Agent](https://github.com/Irfan-gitt/Tarz-Ai-assistant)
 An AI that controls your computer. Moves the cursor, clicks things, reads your screen, takes action. Built because I was curious if it was possible. It is.
 
 `LangChain` `Computer Vision` `PyAutoGUI` `Agents`
