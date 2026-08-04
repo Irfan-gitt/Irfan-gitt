@@ -69,6 +69,10 @@ Conversational agent that actually remembers you — not just this session, but 
 
 LangGraph ChromaDB Streaming FastAPI Railway
 
+## 🎓 Certifications
+
+- 📜 [Google AI Essentials](https://coursera.org/share/fce5e96976c88b399639adaa9e9f31e5) — Google, Coursera
+
 ## 📊 GitHub Stats
 
 <p>
