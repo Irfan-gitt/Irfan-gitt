@@ -75,6 +75,7 @@ Conversational agent that actually remembers you — not just this session, but 
 ## 🎓 Certifications
 
 - 📜 [Google AI Essentials](https://coursera.org/share/fce5e96976c88b399639adaa9e9f31e5) — Google, Coursera
+- <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/XkXhu__IQY1UyFA77k58J.webp" />
 
 ## 📊 GitHub Stats
 
